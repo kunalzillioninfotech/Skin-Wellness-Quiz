@@ -16,7 +16,7 @@ Cloudinary (Image Hosting)
 
 ⚙️ Installation & Setup\
 1️⃣ Clone Repository\
-git clone https://github.com/your-username/skin-quiz.git\
+git clone https://github.com/your-username/skin-quiz.git \
 cd skin-quiz\
 🖥️ Frontend Setup\
 cd frontend\
@@ -38,16 +38,16 @@ Create a .env file inside backend/
 
 PORT=5000
 
-# MySQL Config\
+# MySQL Config
 DB_HOST=localhost\
 DB_USER=root\
 DB_PASSWORD=yourpassword\
 DB_NAME=skin_quiz
 
-# JWT (if used)\
+# JWT (if used)
 JWT_SECRET=your_secret_key
 
-# Cloudinary Config\
+# Cloudinary Config
 CLOUD_NAME=your_cloud_name\
 CLOUD_API_KEY=your_api_key\
 CLOUD_API_SECRET=your_api_secret
