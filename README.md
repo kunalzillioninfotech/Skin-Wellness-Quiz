@@ -1,53 +1,53 @@
-🏗️ Tech Stack\n
-Frontend\n
-React (Vite)\n
-Tailwind CSS\n
-Axios\n
-Lucide Icons\n
-React Hot Toast\n
+🏗️ Tech Stack\
+Frontend\
+React (Vite)\
+Tailwind CSS\
+Axios\
+Lucide Icons\
+React Hot Toast
 
-Backend\n
-Node.js\n
-Express.js\n
-MySQL\n
-Multer (File Upload)\n
-Cloudinary (Image Hosting)\n
+Backend\
+Node.js\
+Express.js\
+MySQL\
+Multer (File Upload)\
+Cloudinary (Image Hosting)
 
 
-⚙️ Installation & Setup\n
-1️⃣ Clone Repository\n
-git clone https://github.com/your-username/skin-quiz.git\n
-cd skin-quiz\n
-🖥️ Frontend Setup\n
-cd frontend\n
-npm install\n
-npm run dev\n
+⚙️ Installation & Setup\
+1️⃣ Clone Repository\
+git clone https://github.com/your-username/skin-quiz.git\
+cd skin-quiz\
+🖥️ Frontend Setup\
+cd frontend\
+npm install\
+npm run dev
 
-👉 Runs on: http://localhost:5173\n
+👉 Runs on: http://localhost:5173
 
-🔧 Backend Setup\n
-cd backend\n
-npm install\n
-npm run dev\n
+🔧 Backend Setup\
+cd backend\
+npm install\
+npm run dev
 
-👉 Runs on: http://localhost:5000\n
+👉 Runs on: http://localhost:5000
 
-🔐 Environment Variables\n
+🔐 Environment Variables
 
-Create a .env file inside backend/\n
+Create a .env file inside backend/
 
-PORT=5000\n
+PORT=5000
 
-# MySQL Config\n
-DB_HOST=localhost\n
-DB_USER=root\n
-DB_PASSWORD=yourpassword\n
+# MySQL Config\
+DB_HOST=localhost\
+DB_USER=root\
+DB_PASSWORD=yourpassword\
 DB_NAME=skin_quiz
 
-# JWT (if used)\n
-JWT_SECRET=your_secret_key\n
+# JWT (if used)\
+JWT_SECRET=your_secret_key
 
-# Cloudinary Config\n
-CLOUD_NAME=your_cloud_name\n
-CLOUD_API_KEY=your_api_key
+# Cloudinary Config\
+CLOUD_NAME=your_cloud_name\
+CLOUD_API_KEY=your_api_key\
 CLOUD_API_SECRET=your_api_secret
